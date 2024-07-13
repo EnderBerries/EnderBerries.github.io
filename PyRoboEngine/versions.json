@@ -1,6 +1,6 @@
 {
     "latest":0,
-    "latestVersion":"0.2.0",
+    "latestVersion":"0.2.1",
     "versions":{
         "0.2.0":{
             "PVersion":0,
@@ -10,6 +10,16 @@
             "downloads":{
                 "base":"base.py",
                 "core":"Core.py"
+            }
+        },
+        "0.2.1":{
+            "PVersion":0,
+            "token":"aac092b4844b4ef781afe62fa0921e0f",
+            "base":"https://EnderBerries.github.io/PyRoboEngine/base0.2.1.pyc",
+            "core":"https://EnderBerries.github.io/PyRoboEngine/core0.2.1.pyc",
+            "downloads":{
+                "base":"base.pyc",
+                "core":"Core.pyc"
             }
         }
     }
