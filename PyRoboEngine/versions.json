@@ -2,6 +2,11 @@
     "latest":0,
     "latestVersion":"0.2.0",
     "versions":{
-        "0.2.0":"https://EnderBerries.github.io/PyRoboEngine/0.2.0.py"
+        "0.2.0":{
+            "PVersion":0,
+            "token":"1ac9ccd925bc44f7928c33c18f175b89",
+            "base":"https://EnderBerries.github.io/PyRoboEngine/base0.2.0.py",
+            "core":"https://EnderBerries.github.io/PyRoboEngine/core0.2.0.py"
+        }
     }
 }
