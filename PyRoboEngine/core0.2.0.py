@@ -8,11 +8,12 @@ import base
 BuildinData = {
     "DIR_PyLib":"Robosim_Data\\StreamingAssets\\Lib",
     "version":"0.2.0",
+    "ClientToken":"1ac9ccd925bc44f7928c33c18f175b89",
     "PVersion":0,
     "commands":["cls","workspace","robosim","inject","exit","help","clearcache","#"],
     "engines":["white","black"],
     "engineFiles":["Engine_White.py","Engine_Black.py"],
-    "requirements":["挂起.bat","开发文档.docx","释放.bat","pssuspend.exe","rcu.py"],
+    "requirements":["挂起.bat","开发文档.docx","释放.bat","pssuspend.exe","rcu.py","ChangeLog.txt"],
     "targetEngineName":"Engine.py",
     "texts":{
         "program.welcome":"RyRoboEngineInstaller v0.2.0 By @EnderBerries\n版权所有:2024 EnderBerries  仅供个人学习研究 请勿二次分发\n输入\"help\"获取帮助",
@@ -436,10 +437,12 @@ def shellLoop():
         else:
             print(text("program.command.wrong"))
 
-
-print(text("program.welcome"))
-while True:
-    shellLoop()
+def main(token):
+    if token == BuildinData["ClientToken"]:
+        os.system("cls")
+        print(text("program.welcome"))
+        while True:
+            shellLoop()
 
 
 
