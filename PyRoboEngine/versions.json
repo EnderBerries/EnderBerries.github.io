@@ -35,8 +35,8 @@
         "0.2.3":{
             "CVersion":2,
             "token":"75e104583c7809a76a641bac1f36b35adb2b",
-            "base":"https://EnderBerries.github.io/PyRoboEngine/0.2.3/base0.2.2.pyc",
-            "core":"https://EnderBerries.github.io/PyRoboEngine/0.2.3/core0.2.2.pyc",
+            "base":"https://EnderBerries.github.io/PyRoboEngine/0.2.3/base0.2.3.pyc",
+            "core":"https://EnderBerries.github.io/PyRoboEngine/0.2.3/core0.2.3.pyc",
             "downloads":{
                 "base":"base.pyc",
                 "core":"Core.pyc"
