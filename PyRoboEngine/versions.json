@@ -1,45 +1,15 @@
 {
-    "latest":2,
-    "latestVersion":"0.2.3",
+    "latest":3,
+    "latestVersion":"0.2.4",
     "versions":{
-        "0.2.0":{
-            "CVersion":0,
-            "token":"1ac9ccd925bc44f7928c33c18f175b89",
-            "base":"https://EnderBerries.github.io/PyRoboEngine/0.2.0/base0.2.0.py",
-            "core":"https://EnderBerries.github.io/PyRoboEngine/0.2.0/core0.2.0.py",
+        "0.2.4":{
+            "CVersion":3,
+            "token":"7020dad4ee1c455f5e7ef41f59fe2b16b061",
+            "base":"https://EnderBerries.github.io/PyRoboEngine/0.2.4/b023.d",
+            "core":"https://EnderBerries.github.io/PyRoboEngine/0.2.4/c023.d",
             "downloads":{
-                "base":"base.py",
-                "core":"Core.py"
-            }
-        },
-        "0.2.1":{
-            "CVersion":0,
-            "token":"aac092b4844b4ef781afe62fa0921e0f",
-            "base":"https://EnderBerries.github.io/PyRoboEngine/0.2.1/base0.2.1.pyc",
-            "core":"https://EnderBerries.github.io/PyRoboEngine/0.2.1/core0.2.1.pyc",
-            "downloads":{
-                "base":"base.pyc",
-                "core":"Core.pyc"
-            }
-        },
-        "0.2.2":{
-            "CVersion":1,
-            "token":"560e24b05a912fcc15e3ea841a161ba77305",
-            "base":"https://EnderBerries.github.io/PyRoboEngine/0.2.2/base0.2.2.pyc",
-            "core":"https://EnderBerries.github.io/PyRoboEngine/0.2.2/core0.2.2.pyc",
-            "downloads":{
-                "base":"base.pyc",
-                "core":"Core.pyc"
-            }
-        },
-        "0.2.3":{
-            "CVersion":2,
-            "token":"75e104583c7809a76a641bac1f36b35adb2b",
-            "base":"https://EnderBerries.github.io/PyRoboEngine/0.2.3/base0.2.3.pyc",
-            "core":"https://EnderBerries.github.io/PyRoboEngine/0.2.3/core0.2.3.pyc",
-            "downloads":{
-                "base":"base.pyc",
-                "core":"Core.pyc"
+                "base":"base.pyd",
+                "core":"PyRoboEngine.pyd"
             }
         }
     }
