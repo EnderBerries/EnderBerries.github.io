@@ -1,16 +1,27 @@
 {
-    "latest":3,
+    "latest":4,
     "latestVersion":"0.2.4",
     "versions":{
         "0.2.4":{
             "CVersion":3,
             "token":"7020dad4ee1c455f5e7ef41f59fe2b16b061",
-            "base":"https://EnderBerries.github.io/PyRoboEngine/0.2.4/b023.d",
-            "core":"https://EnderBerries.github.io/PyRoboEngine/0.2.4/c023.d",
+            "base":"https://EnderBerries.github.io/PyRoboEngine/0.2.4/b024.pyd",
+            "core":"https://EnderBerries.github.io/PyRoboEngine/0.2.4/c024.pyd",
             "downloads":{
                 "base":"base.pyd",
                 "core":"PyRoboEngine.pyd"
             }
         }
-    }
+    },
+    "titles":[
+        "Free Palestine!",
+        "疯狂星期四v我50!",
+        "疯狂史山!",
+        "试试Minecraft!",
+        "Terraria也不赖!",
+        "比赛顺利0v0",
+        "菜就多练",
+        "教你的都忘了吗?!!!",
+        "一天睡9小时哦"
+    ]
 }
